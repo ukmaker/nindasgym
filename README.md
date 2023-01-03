@@ -58,6 +58,8 @@ literally at the last minute because the stepper just didn't have the power to l
 If I was to do this again (stop tittering in the back) I'd actually design it. There would be appropriate gearing.
 Vital pieces of mechnanics would be properly attached, not held on with superglue/hotglue/screws through cardboard.
 
+The MCU knows when to stop raising or lowering the lid because there are two microswitches, one at the top of the box and one near the bottom. I 3D printed a T-shaped attachemnt which is stuck to the drive belt and triggers the microswitches. If you look at the image TopEndstop.jpg you will see the wire going to the microswitch which is glued to a 3D printed bracket which is itself stuck to the the side of the box.
+
 ## Method - Firmware
 I bought a CD copy of the Survivor album, ripped the Eye of the Tiger track and copied it to an SD card which goes in the MP3 player. The CD was part of Ninda's present.
 
