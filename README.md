@@ -58,3 +58,11 @@ literally at the last minute because the stepper just didn't have the power to l
 If I was to do this again (stop tittering in the back) I'd actually design it. There would be appropriate gearing.
 Vital pieces of mechnanics would be properly attached, not held on with superglue/hotglue/screws through cardboard.
 
+## Method - Firmware
+I bought a CD copy of the Survivor album, ripped the Eye of the Tiger track and copied it to an SD card which goes in the MP3 player. The CD was part of Ninda's present.
+
+I carefully timed how long it takes to get to the lyric "rising up" and programmed that into the Arduino sketch.
+
+The sketch is triggered when the door is opened because there is a small microswitch which is activated when the door opens.
+
+Closing the door causes the music to stop, the lights stop flashing and glow red and the lid goes back down.
